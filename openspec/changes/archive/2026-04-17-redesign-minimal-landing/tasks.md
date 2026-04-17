@@ -39,8 +39,8 @@
 
 ## 6. Deploy & verify
 
-- [ ] 6.1 Commit with a message describing the redesign and reference to the OpenSpec change name
-- [ ] 6.2 Push to `origin/main`; poll the GitHub Pages build status until `built` against the new commit SHA
-- [ ] 6.3 `curl -sS https://mugdha.dev` and grep for `Mugdha Adhav`, `Engineering Manager`, `Acquia`, and `whatifed.com` to confirm new content is live
+- [x] 6.1 Commit with a message describing the redesign and reference to the OpenSpec change name
+- [x] 6.2 Push to `origin/main`; poll the GitHub Pages build status until `built` against the new commit SHA
+- [x] 6.3 `curl -sS https://mugdha.dev` and grep for `Mugdha Adhav`, `Engineering Manager`, `Acquia`, and `whatifed.com` to confirm new content is live
 - [ ] 6.4 Visual smoke check in a browser (hard refresh to bypass cache); confirm layout, palette, focus ring, and animation feel match the design
 - [ ] 6.5 Report outcome back and archive the OpenSpec change with `openspec-archive-change`
